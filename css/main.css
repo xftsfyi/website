@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin: 25px
+}
+
+h1 {
+    color: cyan;
+    border: 20px cyan;
+    font-family: sans-serif;
+    display: flex;
+}
+
+h2 {
+    color: cyan;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    border-radius: 20px;
+}
+
+p {
+    color: cyan;
+    font-family: sans-serif;
+    font-style: bold;
+    font-size: large;
+    text-align: center;
+    display: flex;
+}
+
+img {
+    background-color: black;
+    width: 25%;
+    height: 25%;
+    border-radius: 360px;
+    size-adjust: 50%;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
